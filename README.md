@@ -34,7 +34,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![checkout-gif](checkout-router.gif)
+![checkout-gif](chkout_gif.gif)
 
 ## Objective
 

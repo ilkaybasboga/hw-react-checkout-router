@@ -1,16 +1,8 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # Checkout Router with Axios
 
 ## Description
 
 Project aims to create a Checkout Page App.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
-
 ## Project Skeleton
 
 ```
@@ -78,31 +70,8 @@ Build a Checkout Page App using ReactJS.
 
 - Step 6: Add project gif to your project and README.md file.
 
-## Notes
-
-- You can add additional functionalities(storage or mockApi etc.) to your app.
-
-## Demo
-  <a href="https://checkout-router.vercel.app/" target="_blank">React Checkout Router with Axios</a>
-
-## MockApi
-
-<a href="https://mockapi.io/" target="_blank">MockApi</a>
-
-
-## How do we create mockApi? Watch the video!
-<a href="https://www.youtube.com/watch?v=i_Gvlp83GMk" target="_blank">
- Watch the video
-</a>
 
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
 
 
-- react-router =>proje multipage olduğu için react router u kullanmam gerekiyor
-- axios => api işlemleri olduığu için axios kullanmam gerekiyor
-- state => apiden gelen verilerimi tutabileceğim state e ihtiyacım var. Ve formdan aldığım bilgiler için
-- bootsrap => styling için bootstrap kullancam
-- useEffect => sayfam açılır açılmaz verilerim gelsin istediğim için use effect e ihtiyacım var
-
-- **frontend.env dosyasının adını güncelleyerek .env ye dönüştürebilirsiniz**
